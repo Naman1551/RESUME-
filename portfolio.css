@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.name{
+    color: steelblue;
+    text-align: center;
+    margin-bottom: 0.4rem;
+    position: sticky;
+    top: 0px;
+    letter-spacing: 0.2em;
+    text-shadow: 2px 0 red;
+}
+
+a{
+    display: block;
+    text-align: center;
+    margin-top: 0.5rem;
+    position: relative;
+    text-shadow: 1px 0 blue;
+}
+
+h5{
+    text-align: center;
+    margin-top: 0.8em;
+    position: relative;
+    text-shadow: 0.2px 0 darkred;
+}
+
+hr{
+    color: rgb(123, 70, 0) !important;
+    width: 95vw;
+}
+
+.about-me{
+    padding: 10px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-decoration: none;
+    text-align: justify;
+}
+
+.about-me h2{
+    color: teal;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    text-shadow: 1px 2px red
+}
+
+.about-me p{
+    text-shadow: 2px 0 darksalmon;
+}
+
+.projects1{
+    padding: 10px;
+}
+
+.projects1 h2{
+    color: teal;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-shadow: 2px 1px red
+}
+
+.projects1 p{
+    letter-spacing: 0.1em;
+    text-transform: inherit;
+    text-shadow: 1px 0 lightcoral;
+}
+
+.projects1 h3{
+    text-transform: uppercase;
+    text-decoration: solid;
+    color: #cd445d;
+    font-weight: 600;
+    word-spacing: 0.2em;
+    letter-spacing: 0.1em;
+}
+
+.projects2{
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.projects2 h3{
+    color: #cd445d;
+    word-spacing: 0.2em;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: solid;
+    margin-top: -10px;
+}
+
+.projects2 p{
+    letter-spacing: 0.1rem;
+    text-transform: unset;
+    text-shadow: 1px 0 lightcoral;
+}
+
+.education{
+    padding: 10px;
+}
+
+.education h2{
+    text-align: center;
+    color: teal;
+    text-transform: uppercase;
+    text-shadow: 2px 1px red;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+}
+
+.education h3{
+    color: #cd445d;
+    word-spacing: 0.1em;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+.education p{
+    font-weight: 400;
+    text-shadow: 1px 0 lightcoral;
+}
+
+.education p b{
+    color: black !important;
+    text-shadow: none;
+    font-weight: 600;
+}
+
+.education strong{
+    text-shadow: 0.5px 0 red;
+}
+
+.mark{
+    text-shadow: 0.5px 0 red !important;
+    font-weight: 600 !important;
+    font-style: inherit;
+}
+
+.marks{
+    text-shadow: 0.5px 0 red !important;
+    font-weight: 600 !important;
+    font-style: inherit;
+}
+
+.more h2{
+    color: teal;
+    word-spacing: 0.1em;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 1px red;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+ul li b{
+    text-transform: capitalize !important;
+    letter-spacing: 0.1em !important;
+    color: #000;
+    text-shadow: none;
+}
+
+ul li{
+    /* color: #cd445d; */
+    text-shadow: 0.5px 0 red;
+}
+
+strong{
+    color: #000;
+    text-shadow: none;
+}
